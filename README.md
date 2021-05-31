@@ -2,4 +2,3 @@
 
 Tablet App for Testing
 
-.
